@@ -1,0 +1,15 @@
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\bin\Debug\net6.0\questn_4.exe
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\bin\Debug\net6.0\questn_4.deps.json
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\bin\Debug\net6.0\questn_4.runtimeconfig.json
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\bin\Debug\net6.0\questn_4.dll
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\bin\Debug\net6.0\questn_4.pdb
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\obj\Debug\net6.0\questn_4.csproj.AssemblyReference.cache
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\obj\Debug\net6.0\questn_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\obj\Debug\net6.0\questn_4.AssemblyInfoInputs.cache
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\obj\Debug\net6.0\questn_4.AssemblyInfo.cs
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\obj\Debug\net6.0\questn_4.csproj.CoreCompileInputs.cache
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\obj\Debug\net6.0\questn_4.dll
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\obj\Debug\net6.0\refint\questn_4.dll
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\obj\Debug\net6.0\questn_4.pdb
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\obj\Debug\net6.0\questn_4.genruntimeconfig.cache
+C:\Users\manikuutty.babu\source\repos\questn_4\questn_4\obj\Debug\net6.0\ref\questn_4.dll
